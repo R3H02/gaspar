@@ -25,4 +25,4 @@ O projeto foi desenvolvido com:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/R3H02/gaspar.git
+   git clone https://r3h02.github.io/gaspar/
